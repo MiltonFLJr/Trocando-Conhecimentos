@@ -41,7 +41,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container">
 		<div class="header">
 			<div class="col-md-7 logo">
-				<a href="index.html"><h1>Trocando conhecimentos</h1></a>
+				<a href="index.html"><h1>Trocando Conhecimentos Teste</h1></a>
 			</div>
 			<div class="col-md-5 details">
 				<div class="addre">
