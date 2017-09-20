@@ -76,8 +76,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						
 				
                      <img src="images/avtlogin.png">
-                     <b>Login</b>
-                     
+                     <b><a href="teladelogin.php">Login</b>
+                     <b><a href="teladecadastro.php">Cadastro</b>
 					  </div> 
 					  
 
